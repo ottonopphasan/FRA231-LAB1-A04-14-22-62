@@ -1,0 +1,8 @@
+rtGetNaN.o: \
+ C:/Users/gamen/Desktop/G4-lab-encoder/AMT103_ert_rtw/rtGetNaN.c \
+ C:/Users/gamen/Desktop/G4-lab-encoder/AMT103_ert_rtw/rtwtypes.h \
+ C:/Users/gamen/Desktop/G4-lab-encoder/AMT103_ert_rtw/rtGetNaN.h \
+ C:/Users/gamen/Desktop/G4-lab-encoder/AMT103_ert_rtw/rt_nonfinite.h
+C:/Users/gamen/Desktop/G4-lab-encoder/AMT103_ert_rtw/rtwtypes.h:
+C:/Users/gamen/Desktop/G4-lab-encoder/AMT103_ert_rtw/rtGetNaN.h:
+C:/Users/gamen/Desktop/G4-lab-encoder/AMT103_ert_rtw/rt_nonfinite.h:

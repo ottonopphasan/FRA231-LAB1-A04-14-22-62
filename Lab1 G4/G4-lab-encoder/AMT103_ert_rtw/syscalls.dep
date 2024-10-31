@@ -1,0 +1,2 @@
+syscalls.o: \
+ C:/Users/gamen/Desktop/G4-lab-encoder/encodemain/STM32CubeIDE/Application/User/Core/syscalls.c
